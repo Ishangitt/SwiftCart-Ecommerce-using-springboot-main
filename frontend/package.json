@@ -1,0 +1,24 @@
+{
+  "name": "cart-app-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0",
+    "axios": "^1.6.2",
+    "react-icons": "^5.0.1",
+    "react-hot-toast": "^2.4.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10",
+    "@vitejs/plugin-react": "^4.2.1",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
